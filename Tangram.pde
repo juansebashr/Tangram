@@ -1,5 +1,6 @@
-angle,btriangleb,rtriangle,paralelogram,paralelograminv,ltriangle,ltriangleb,SquareS;  // The PShape objectç
+Pshape square,btriangleb,rtriangle,paralelogram,paralelograminv,ltriangle,ltriangleb,SquareS;  // The PShape objectÃ§
 color fondo =color(12,16,84);
+float=angle;
 float R=0;
 float angle1,angle2,angle3,angle4,angle5,angle6,angle7;{
   angle1=0;
