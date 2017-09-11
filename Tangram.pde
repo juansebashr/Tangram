@@ -10,7 +10,7 @@ float angle1,angle2,angle3,angle4,angle5,angle6,angle7;{
   angle6=PI;
   angle7=0;
 }
-int seleccion=0, nivel=7,contador=0,pasador=0;
+int seleccion=0, nivel=1,contador=0,pasador=0;
 float squarex,squarey,rtrianglex,rtriangley,ltrianglexa,ltriangleya,ltriangleyb,ltrianglexb,btriangleya,btrianglexa,btrianglexb,btriangleyb,paralelogramx,paralelogramy;{
   squarex=850;
   squarey=750;
